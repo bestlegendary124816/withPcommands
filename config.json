@@ -1,0 +1,9 @@
+{
+  "token": "Your Bot Token",
+  "DataBaseURL": "Your DataBase URL",
+  "BrainShopAPI": "BrainShopAPI Key (https://brainshop.ai)",
+  "DBD": "DBD License Key (https://assistantscenter.com/dashboard)",
+  "ID": "Bot ID",
+  "SEC": "Bot Secret Key",
+  "Anti_Crash_System_Channel_ID": "AntiCrash System Channel ID"
+}
