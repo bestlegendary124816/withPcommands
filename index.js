@@ -33,7 +33,6 @@ client.config = require("./config.json");
 client.events = new Collection();
 client.subCommands = new Collection(); //SubCommand handler
 client.commands = new Collection();
-client.pcommands = new Collection();
 
 // const player = new Player(client);
 // player.on("trackStart", (queue, track) =>
